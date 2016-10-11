@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1476043787 source:e:\dev\c++\data structures & algorithims\tests\load_test\main.cpp
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string>
+	<iostream>
+
