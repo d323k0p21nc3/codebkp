@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1476192642 source:e:\dev\c++\data structures & algorithims\src\stacks\src\create.cpp
+	<iostream>
+	<iomanip>
+
+1476190547 source:e:\dev\c++\data structures & algorithims\src\stacks\src\main.cpp
+	<iostream>
+	"elon.h"
+
+1476190547 e:\dev\c++\data structures & algorithims\src\stacks\src\elon.h
+
