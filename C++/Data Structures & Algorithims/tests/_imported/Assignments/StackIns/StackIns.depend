@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1476522817 source:/home/admin-1/Documents/Code/StackIns/main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	<stack>
+

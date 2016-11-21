@@ -1,3 +1,4 @@
+#include "elon.h"
 #include <iostream>
 
 using namespace std;
@@ -13,13 +14,19 @@ void push_into_stack()
 
     cout << "Kindly provide the number to push onto the list: __\b\b";
     cin >> x;
-    stack_size++;
 
     if(!(top>stack_size)){
 
+        cout << "\nHere is your Stack before the Push\n\n";
+
+        _print(&stack_size, _stack);
+
+        stack_size++;
         _stack[top] = x;
 
-        if()
+        cout << "\n\nHere is updated Stack\n\n";
+
+        _print(&stack_size, _stack);
 
     }else
     {

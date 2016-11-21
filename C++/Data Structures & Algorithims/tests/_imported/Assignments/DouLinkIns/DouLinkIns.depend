@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476619873 source:/home/admin-1/Documents/Code/DouLinkIns/main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+

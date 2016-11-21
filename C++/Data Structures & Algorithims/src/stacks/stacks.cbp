@@ -34,7 +34,9 @@
 		</Compiler>
 		<Unit filename="src/create.cpp" />
 		<Unit filename="src/elon.h" />
+		<Unit filename="src/lib.cpp" />
 		<Unit filename="src/main.cpp" />
+		<Unit filename="src/pop.cpp" />
 		<Unit filename="src/push.cpp" />
 		<Extensions>
 			<code_completion />

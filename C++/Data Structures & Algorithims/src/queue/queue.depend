@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1477858191 source:e:\dev\c++\data structures & algorithims\src\queue\src\main.cpp
+	"elon.h"
+	<iostream>
+
+1477859217 source:e:\dev\c++\data structures & algorithims\src\queue\src\queue.cpp
+	<iostream>
+	<cstdlib>
+
+1477851595 e:\dev\c++\data structures & algorithims\src\queue\src\elon.h
+	"queue.cpp"
+
+1478802325 e:\dev\c++\data structures & algorithims\src\queue\src\queue.cpp
+	<iostream>
+	<cstdlib>
+

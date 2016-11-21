@@ -1,5 +1,6 @@
+#include "elon.h"
 #include <iostream>
-//#include <iomanip> for setw(int);
+#include <windows.h>
 
 using namespace std;
 
@@ -33,17 +34,14 @@ void create_stack()
         }
 
         cout << "\nHere is your Stack\n\n";
+        _print(&top, _stack);
 
-        for (int c=top; c>0; c--){
-            cout << "\t\t\t+--+\n";
-            cout << "\t\t\t|" << _stack[c-1] << "|\n";
-        }
-
-        cout << "\t\t\t+--+";
 
     }else
     {
         cout << "Invalid Stack size! Retry...\n\n";
+        system("pause");
+        cout << "\n\n\n\n";
         create_stack();
     }
 

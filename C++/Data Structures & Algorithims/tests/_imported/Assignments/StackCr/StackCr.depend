@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1476276884 source:/media/root/EST/Stuff/Documents/CSC/CSC 2/CSC 211 DATA STRUCTURES AND ALGORITHMS/Assignments/StackCr/main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	<stack>
+

@@ -5,12 +5,12 @@
  * Last Updated on 29th September 2016
 **/
 
-#include <iostream>
 #include "elon.h"
+#include <iostream>
 
 #define CREATE 101
-#define INSERT 102
-#define DELETE 103
+#define PUSH 102
+#define POP 103
 
 using namespace std;
 
@@ -60,15 +60,15 @@ void _init_()
         cout << "\n\n";
         create_stack();
 
-    }else if (opcode==INSERT)
+    }else if (opcode==PUSH)
     {
         cout << "\n\n";
-        //push_into_stack();
+        push_into_stack();
 
-    }else if (opcode==DELETE)
+    }else if (opcode==POP)
     {
         cout << "\n\n";
-        //pop_from_stack();
+        pop_from_stack();
 
     }else
     {

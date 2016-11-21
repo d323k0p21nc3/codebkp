@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1477927494 source:e:\dev\c++\data structures & algorithims\src\linked_lists\src\main.cpp
+	<iostream>
+	"elon.h"
+
+1477927697 source:e:\dev\c++\data structures & algorithims\src\linked_lists\src\linked_list.cpp
+	<iostream>
+
+1477925955 e:\dev\c++\data structures & algorithims\src\linked_lists\src\elon.h
+	"linked_list.cpp"
+
+1477927697 e:\dev\c++\data structures & algorithims\src\linked_lists\src\linked_list.cpp
+	<iostream>
+
+1477927269 source:e:\dev\c++\data structures & algorithims\src\linked_lists\src\creation.cpp
+	"elon.h"
+
+1477927314 source:e:\dev\c++\data structures & algorithims\src\linked_lists\src\insertion.cpp
+	"elon.h"
+
+1477927333 source:e:\dev\c++\data structures & algorithims\src\linked_lists\src\deletion.cpp
+	"elon.h"
+

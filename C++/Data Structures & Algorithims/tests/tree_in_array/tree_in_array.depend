@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476654032 source:e:\dev\c++\data structures & algorithims\tests\tree_in_array\main.cpp
+	<iostream>
+	<math.h>
+

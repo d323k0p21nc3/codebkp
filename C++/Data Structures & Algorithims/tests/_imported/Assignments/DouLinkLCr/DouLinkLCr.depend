@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476283331 source:/home/admin-1/Documents/Code/DouLinkLCr/main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+

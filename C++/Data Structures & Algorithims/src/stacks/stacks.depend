@@ -1,11 +1,25 @@
 # depslib dependency file v1.0
-1476192642 source:e:\dev\c++\data structures & algorithims\src\stacks\src\create.cpp
-	<iostream>
-	<iomanip>
-
-1476190547 source:e:\dev\c++\data structures & algorithims\src\stacks\src\main.cpp
-	<iostream>
+1477752490 source:e:\dev\c++\data structures & algorithims\src\stacks\src\create.cpp
 	"elon.h"
+	<iostream>
+	<windows.h>
 
-1476190547 e:\dev\c++\data structures & algorithims\src\stacks\src\elon.h
+1477749651 source:e:\dev\c++\data structures & algorithims\src\stacks\src\main.cpp
+	"elon.h"
+	<iostream>
+
+1477752204 e:\dev\c++\data structures & algorithims\src\stacks\src\elon.h
+	<iostream>
+
+1477749651 source:e:\dev\c++\data structures & algorithims\src\stacks\src\push.cpp
+	"elon.h"
+	<iostream>
+
+1477752321 source:e:\dev\c++\data structures & algorithims\src\stacks\src\lib.cpp
+	<iostream>
+
+1477752204 source:e:\dev\c++\data structures & algorithims\src\stacks\src\pop.cpp
+	"elon.h"
+	<iostream>
+	<windows.h>
 

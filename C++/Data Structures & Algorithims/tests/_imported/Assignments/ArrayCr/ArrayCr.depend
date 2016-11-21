@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1476210409 source:/home/admin-1/Documents/Code/ArrayCr/main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+
+1476280674 source:/media/admin-1/EST/Stuff/Documents/CSC/CSC 2/CSC 211 DATA STRUCTURES AND ALGORITHMS/Assignments/ArrayCr/main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+

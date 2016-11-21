@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476210638 source:/home/admin-1/Documents/Code/ArrayDel/main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476280871 source:/home/admin-1/Documents/Code/ArrayIns/main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+
