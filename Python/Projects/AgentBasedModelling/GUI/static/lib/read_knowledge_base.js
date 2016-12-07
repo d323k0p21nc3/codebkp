@@ -14,7 +14,6 @@ function postJSON(url, file, action){
             success: function(response) {
                  post_response = JSON.parse(response);
                 JSONinputs = post_response.json_inputs;
-                alert("Now Calling Talia");
                 _init_();
                 console.log(JSON.stringify(post_response));
             },
