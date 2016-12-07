@@ -1,0 +1,50 @@
+{
+  "greetings": [
+    {
+      "good_morning": "Good morning."
+    }
+  ],
+
+  "introduction": [
+    {
+      "name_self": "My name is Talia Wanjiku.",
+      "desc_self": "I am an Agricultural Officer with Kenya Agricultural Research Institute(KARI).",
+      "purpose_self": "I am here concerning the recent outbreak of Brown Spots on Passion Fruits."
+    }
+  ],
+
+  "passion_diagnosis":[
+    {
+      "see_what": "So what is this i have to see?",
+      "affirm_symptoms": "Hmmm, yeah... the spots on the leaves are about 10mm wide and the stem about 25mm long.",
+      "disease_period": "So for how long have the plants exhibited this symptoms?",
+      "final_diagnosis": "Interesting. I can also see light brown spots on the fruit, which are round and sunken. It looks here we have the common case of Brown Spots (Alternaria passiflorae)."
+    }
+  ],
+
+  "disease_containment":[
+    {
+      "relief": "You are very lucky, the spots have not appeared on the leaf edges. Otherwise, there would be no helping your investment.",
+      "maintenance_1": "You could start by practising field hygiene by removal and destruction of fallen sick vines, fruits or leaves.",
+      "maintenance_2": "Ha ha! Let me finalise first. Prune vines to decrease thick vine canopy, thereby reducing humidity within the crop. This also increases air movement and light.",
+      "maintenance_3": "Sprays can also be used for the control of brown spot, such as Famoxadone plus Cymoxanil and Mancozeb",
+      "complement": "You are one humorous fella Isaac. Do not worry, the organisation will organise for the distribution of the fungicides and secateurs for pruning."
+    }
+  ],
+
+  "preventive_measures":[
+    {
+      "establish_base": "We are just doing our job. So when will you start planting next?",
+      "preventive_1": "Ok Comedian Farmer, next time try planting the yellow passion fruits. Though slightly expensive, they are more tolerant to the disease.",
+      "preventive_2": "In addition to that, field sanitation should also be practised. As i said earlier, collection and disposal of fallen diseased fruits, leaves and vines.",
+      "preventive_3": "Finally, you should also prune the vines to facilitate better air circulation, light and spray penetration and cover. During humid weather, when the vines are growing rapidly, reduce the intervals between spray applications to 2 or 3 weeks to ensure that new growth is adequately protected. "
+    }
+  ],
+
+  "bye": [
+    {
+      "finalizing": "You will be seeing me sooner than you think Mr. Kiptoo. Thank you for lending me your ears, hope you will practise what we have talked about.",
+      "bye": "Well, it was nice meeting you Mr.Isaac. Have a nice day. Goodbye."
+    }
+  ]
+}

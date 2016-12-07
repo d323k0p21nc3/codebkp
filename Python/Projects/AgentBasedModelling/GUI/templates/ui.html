@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="shortcut icon" type="image/jpg" href="{{ url_for('static', filename='assets/images/favicon.jpg') }}"/>
+    <title>AI :: Agent Based Modelling</title>
+
+    <link rel='stylesheet prefetch' href="http://cdn.materialdesignicons.com/1.1.70/css/materialdesignicons.min.css">
+    <link rel='stylesheet prefetch' href="{{ url_for('static', filename='assets/css/googlefonts.css') }}">
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='assets/css/style.css') }}">
+    <style>
+        .container{
+            height: 580px;
+        }
+    </style>
+
+</head>
+<body style="background: url('/static/assets/images/bg5.jpg'); background-size: cover">
+
+    <style id="dynamic-styles"></style>
+    <div id="hangout" class="collapsed" style="height: 640px">
+    <div id="head" class="style-bg"> <i class="mdi mdi-arrow-left"></i> <i class="mdi mdi-fullscreen-exit"></i>
+      <span style="font-size: 120%">Agent Based Modelling - <span style="font-style: italic; font-size: 80%">Conversation between an agricultural officer (Talia) and a farmer (Isaac)</span></span>
+    <br><i class="mdi mdi-chevron-down"></i></div>
+    <div id="content" style="height: 584px;">
+
+    <div class="list-chat shown" style="">
+        <div class="meta-bar">
+            <span id="msg_init" style="font-size: 90%; color: #747474"></span><br><br>
+        </div>
+      <ul class="chat" id="chat_ui">
+        <!--<li>
+        <img src="{{ url_for('static', filename='assets/images/ai_talia.jpg') }}" style="width: 60px; height: 60px">
+          <div class="message">Hello My Name is Talia</div>
+        </li>
+        <li>
+        <img src="{{ url_for('static', filename='assets/images/ai_donatello.jpg') }}">
+          <div class="message">Hello My Name is Donatello</div>
+        </li>
+        <li>
+        <img src="{{ url_for('static', filename='assets/images/ai_talia.jpg') }}">
+          <div class="message current">Hello My Name is Talia</div>
+        </li>-->
+      </ul>
+      <!--<div class="meta-bar chat"><input class="nostyle chat-input" type="text" placeholder="Message..." /> <i class="mdi mdi-send"></i></div>-->
+    </div>
+      </div>
+
+    <script type="text/javascript" src="{{ url_for('static', filename='ext_lib/jQuery.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='assets/js/style.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='lib/_init_.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='lib/read_knowledge_base.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='lib/globals.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='lib/service.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='lib/topics/greetings.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='lib/topics/introduction.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='lib/topics/passion_diagnosis.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='lib/topics/disease_containment.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='lib/topics/preventive_measures.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='lib/topics/bye.js') }}"></script>
+
+</body>
+</html>

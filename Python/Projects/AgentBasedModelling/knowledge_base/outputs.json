@@ -1,0 +1,50 @@
+{
+  "greetings": [
+    {
+      "good_morning": "Good morning Miss. How may I help you?"
+    }
+  ],
+
+  "introduction": [
+    {
+      "name_self": "Pleasure meeting you Miss Wanjiku. I am Isaac Kiptoo. ",
+      "desc_self": "I am a pauper farmer  whose Passion fruits have not been doing well.",
+      "purpose_self": "Yeah, we even thought it a curse. What could be the problem? Here, have a look."
+    }
+  ],
+
+  "passion_diagnosis":[
+    {
+      "see_what": "Ok. So of late, I have noticed the leaves have brown spots, mostly around the veins. Additionally, there are also spots on the stems and fruits.",
+      "affirm_symptoms": "Seems about right. Its been making me worry about the produce for the end of this month.",
+      "disease_period": "After planting they just seemed okay, but just about the second week, the spots started appearing. So its roughly been three weeks.",
+      "final_diagnosis": "Oh! Brown Spots, I have hard of it. So what can be done to save my investment?"
+    }
+  ],
+
+  "disease_containment":[
+    {
+      "relief": "Thank God, it seems your arrival was timely.",
+      "maintenance_1": "What! I thought the fallen vines and leaves were good manure for the plants after decomposition. Should I even start now?",
+      "maintenance_2": "So no vast canopies, noted. ",
+      "maintenance_3": "You should probably jot that down. I never got more than 3 out of 10 in dictation.",
+      "complement": "Thank you lady. You are truly heaven sent."
+    }
+  ],
+
+  "preventive_measures":[
+    {
+      "establish_base": "Lets just say its a month till harvest, then give the soil a month vacation. Most likely 2 months from now.",
+      "preventive_1": "They are 20 shillings more expensive and its per seed. However, to avoid such a predicament, i could make the exception.",
+      "preventive_2": "Alright. In fact i will start in the next 30 minutes.",
+      "preventive_3": "Pruning and Spray application, noted.  Will be waiting for KARI. Hope this is not just a one time thing."
+    }
+  ],
+
+  "bye": [
+    {
+      "finalizing": "Absolutely Miss. Anything to save my investment.",
+      "bye": "Goodbye Miss Talia"
+    }
+  ]
+}
